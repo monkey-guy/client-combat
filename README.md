@@ -1,3 +1,6 @@
-# Empty Repo
+# Client Combat System
 
-Used as an example remote repo for git tutorial
+This is just a better TSB but on the client.
+No one will see this, or see you.
+
+If someone else runs this script then they will see the other stuff!
